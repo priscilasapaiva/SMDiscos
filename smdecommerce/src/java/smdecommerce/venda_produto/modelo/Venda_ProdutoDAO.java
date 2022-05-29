@@ -48,7 +48,7 @@ public class Venda_ProdutoDAO {
     }
     
     /**
-     * Método utilizado para obter os produtos de uma venda
+     * Método utilizado para obter as vendas de um produto
      *
      * @param id_produto
      * @return
